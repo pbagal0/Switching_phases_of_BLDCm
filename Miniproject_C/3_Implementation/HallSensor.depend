@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605332949 source:c:\users\prash\desktop\project\hallsensor\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605333204 source:c:\users\prash\desktop\project\hallsensor\src\decoder.c
+
